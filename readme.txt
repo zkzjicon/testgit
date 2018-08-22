@@ -4,3 +4,4 @@ change content
 Git has a mutable index called stage.
 DIFFERENT Git has a mutable index called stage.
 ONE Git tracks changes.
+TWO Git tracks changes.
